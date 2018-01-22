@@ -1,0 +1,1 @@
+time : 18-01-09 13:58:37 message: Swoole\Server::__construct(): listen server port failed. in file /Users/yangyiyuan/projects/GB-T-26875.3-2011/Core/Swoole/Server.php line 46

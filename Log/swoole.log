@@ -1,0 +1,26 @@
+[2018-01-09 13:40:57 #47936.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-01-09 13:40:57 *47953.7]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-01-09 13:40:57 $47937.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-01-09 13:40:57 *47950.4]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-01-09 13:40:57 *47951.5]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-01-09 13:40:57 *47949.3]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-01-09 13:40:57 *47947.1]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-01-09 13:40:57 *47946.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-01-09 13:40:57 *47952.6]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-01-09 13:40:57 *47948.2]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-01-09 14:00:00 #47936.0]	NOTICE	Server is shutdown now.
+[2018-01-09 15:03:59 $54380.0]	WARNING	swManager_check_exit_status: worker#7 abnormal exit, status=0, signal=11
+[2018-01-09 15:03:59 $54380.0]	WARNING	swManager_check_exit_status: worker#6 abnormal exit, status=0, signal=11
+[2018-01-09 15:03:59 $54380.0]	WARNING	swManager_check_exit_status: worker#5 abnormal exit, status=0, signal=11
+[2018-01-09 15:03:59 $54380.0]	WARNING	swManager_check_exit_status: worker#0 abnormal exit, status=0, signal=11
+[2018-01-09 20:11:07 $54380.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-01-09 20:11:07 #54379.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-01-09 20:11:07 *90127.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-01-09 20:11:07 *90126.5]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-01-09 20:11:07 *90124.7]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-01-09 20:11:07 *90125.6]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-01-09 20:11:07 *54393.4]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-01-09 20:11:07 *54392.3]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-01-09 20:11:07 *54391.2]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-01-09 20:11:07 *54390.1]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-01-09 20:11:26 #54379.0]	NOTICE	Server is shutdown now.
