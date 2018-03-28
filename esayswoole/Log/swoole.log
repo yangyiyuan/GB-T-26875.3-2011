@@ -24,3 +24,18 @@
 [2018-01-09 20:11:07 *54391.2]	WARNING	swSignal_callback: signal[1] callback is null.
 [2018-01-09 20:11:07 *54390.1]	WARNING	swSignal_callback: signal[1] callback is null.
 [2018-01-09 20:11:26 #54379.0]	NOTICE	Server is shutdown now.
+[2018-01-22 13:53:53 $20430.0]	WARNING	swManager_check_exit_status: worker#3 abnormal exit, status=0, signal=11
+[2018-01-22 13:53:53 $20430.0]	WARNING	swManager_check_exit_status: worker#4 abnormal exit, status=0, signal=11
+[2018-01-22 13:58:52 $20430.0]	WARNING	swManager_check_exit_status: worker#4 abnormal exit, status=0, signal=11
+[2018-01-22 14:23:05 #20429.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-01-22 14:23:05 $20430.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-01-22 14:23:05 *23777.4]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-01-22 14:23:05 *20947.3]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-01-22 14:23:05 *20446.7]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-01-22 14:23:05 *20445.6]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-01-22 14:23:05 *20444.5]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-01-22 14:23:05 *20440.1]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-01-22 14:23:05 *20441.2]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-01-22 14:23:05 *20439.0]	WARNING	swSignal_callback: signal[1] callback is null.
+[2018-01-22 14:38:45 *20947.3]	ERROR	zm_deactivate_swoole (ERROR 9003): worker process is terminated by exit()/die().
+[2018-01-26 13:36:14 #20429.0]	NOTICE	Server is shutdown now.

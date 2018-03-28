@@ -46,12 +46,6 @@ class Event extends AbstractEvent
         $listener->on('receive', function (\swoole_server $swoole_server, $fd, $from_id, $data) {
             Logger::getInstance()->console('received data : ' . $data);
             $swoole_server->send($fd, 'swoole ' . $data . ' at time: ' . time());
-            while (1){
-                AsyncTaskManager::getInstance()->add(function () use ($fd) {
-                    sleep(30);
-                    Server::getInstance()->getServer()->send($fd, 'this is delay message at time: ' . time());
-            }
-            });
         });
         $listener->on('close', function (\swoole_server $swoole_server, $fd) {
             Logger::getInstance()->console('client close');
